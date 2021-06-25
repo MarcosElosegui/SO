@@ -1,0 +1,93 @@
+Lectura de programa prog000.elf 
+SE ESTA EJECUTANDO [ ld , r9 , 4000580]   
+PROCESOS 
+
+CORE_ID: 0 
+ 	 HILO ID_: 0 
+PCB -> id = 0, t_vida = 17, t_restante = 16, quantum = 6, estado = 0, prioridad = 3 
+	 MM -> Codigo: 17, Datos: 13, PGB: 0 
+ 	 HILO ID_: 1 
+ 	 HILO ID_: 2 
+ 	 HILO ID_: 3 
+CORE_ID: 1 
+ 	 HILO ID_: 0 
+ 	 HILO ID_: 1 
+ 	 HILO ID_: 2 
+ 	 HILO ID_: 3 
+CORE_ID: 2 
+ 	 HILO ID_: 0 
+ 	 HILO ID_: 1 
+ 	 HILO ID_: 2 
+ 	 HILO ID_: 3 
+CORE_ID: 3 
+ 	 HILO ID_: 0 
+ 	 HILO ID_: 1 
+ 	 HILO ID_: 2 
+ 	 HILO ID_: 3 
+DATOS DE LA MEMORIA 
+NumPag: 1
+En la posicion De Memoria:: 400000   VALOR-> 09000058 
+En la posicion De Memoria:: 400004   VALOR-> 0A00005C 
+En la posicion De Memoria:: 400008   VALOR-> 2B9A0000 
+En la posicion De Memoria:: 40000C   VALOR-> 1B000060 
+En la posicion De Memoria:: 400010   VALOR-> 00000054 
+En la posicion De Memoria:: 400014   VALOR-> 01000058 
+En la posicion De Memoria:: 400018   VALOR-> 22010000 
+En la posicion De Memoria:: 40001C   VALOR-> 1200005C 
+En la posicion De Memoria:: 400020   VALOR-> 0F00006C 
+En la posicion De Memoria:: 400024   VALOR-> 00000070 
+En la posicion De Memoria:: 400028   VALOR-> 21F00000 
+En la posicion De Memoria:: 40002C   VALOR-> 11000074 
+En la posicion De Memoria:: 400030   VALOR-> 05000054 
+En la posicion De Memoria:: 400034   VALOR-> 06000058 
+En la posicion De Memoria:: 400038   VALOR-> 27560000 
+En la posicion De Memoria:: 40003C   VALOR-> 1700005C 
+En la posicion De Memoria:: 400040   VALOR-> F0000000 
+En la posicion De Memoria:: 400044   VALOR-> FFFFFFFD 
+En la posicion De Memoria:: 400048   VALOR-> FFFFFFC4 
+En la posicion De Memoria:: 40004C   VALOR-> FFFFFFBF 
+En la posicion De Memoria:: 400050   VALOR-> FFFFFF91 
+En la posicion De Memoria:: 400054   VALOR-> FFFFFFEB 
+En la posicion De Memoria:: 400058   VALOR-> FFFFFF62 
+En la posicion De Memoria:: 40005C   VALOR-> FFFFFF99 
+En la posicion De Memoria:: 400060   VALOR-> FFFFFF6B 
+En la posicion De Memoria:: 400064   VALOR-> 0000005F 
+En la posicion De Memoria:: 400068   VALOR-> 00000058 
+En la posicion De Memoria:: 40006C   VALOR-> FFFFFF8D 
+En la posicion De Memoria:: 400070   VALOR-> 0000001B 
+En la posicion De Memoria:: 400074   VALOR-> 0000003B 
+En la posicion De Memoria:: 400078   VALOR-> 00000000 
+En la posicion De Memoria:: 40007C   VALOR-> 00000000 
+En la posicion De Memoria:: 400080   VALOR-> 00000000 
+En la posicion De Memoria:: 400084   VALOR-> 00000000 
+En la posicion De Memoria:: 400088   VALOR-> 00000000 
+En la posicion De Memoria:: 40008C   VALOR-> 00000000 
+Lectura de programa prog001.elf 
+En la posicion De Memoria:: 400090   VALOR-> 00000000 
+En la posicion De Memoria:: 400094   VALOR-> 00000000 
+En la posicion De Memoria:: 400098   VALOR-> 00000000 
+En la posicion De Memoria:: 40009C   VALOR-> 00000000 
+En la posicion De Memoria:: 4000A0   VALOR-> 00000000 
+En la posicion De Memoria:: 4000A4   VALOR-> 00000000 
+En la posicion De Memoria:: 4000A8   VALOR-> 00000000 
+En la posicion De Memoria:: 4000AC   VALOR-> 00000000 
+En la posicion De Memoria:: 4000B0   VALOR-> 00000000 
+En la posicion De Memoria:: 4000B4   VALOR-> 00000000 
+En la posicion De Memoria:: 4000B8   VALOR-> 00000000 
+En la posicion De Memoria:: 4000BC   VALOR-> 00000000 
+En la posicion De Memoria:: 4000C0   VALOR-> 00000000 
+En la posicion De Memoria:: 4000C4   VALOR-> 00000000 
+En la posicion De Memoria:: 4000C8   VALOR-> 00000000 
+En la posicion De Memoria:: 4000CC   VALOR-> 00000000 
+En la posicion De Memoria:: 4000D0   VALOR-> 00000000 
+En la posicion De Memoria:: 4000D4   VALOR-> 00000000 
+En la posicion De Memoria:: 4000D8   VALOR-> 00000000 
+En la posicion De Memoria:: 4000DC   VALOR-> 00000000 
+En la posicion De Memoria:: 4000E0   VALOR-> 00000000 
+En la posicion De Memoria:: 4000E4   VALOR-> 00000000 
+En la posicion De Memoria:: 4000E8   VALOR-> 00000000 
+En la posicion De Memoria:: 4000EC   VALOR-> 00000000 
+En la posicion De Memoria:: 4000F0   VALOR-> 00000000 
+En la posicion De Memoria:: 4000F4   VALOR-> 00000000 
+En la posicion De Memoria:: 4000F8   VALOR-> 00000000 
+En la posicion De Memoria:: 4000FC   VALOR-> 0000000
